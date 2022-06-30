@@ -1,0 +1,22 @@
+{
+  "name": "mongo-graphql",
+  "version": "1.0.0",
+  "description": "This api stores data of music collections",
+  "main": "index.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \":b\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tlacloc/mongo-graphql.git"
+  },
+  "author": "tlacloc",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tlacloc/mongo-graphql/issues"
+  },
+  "homepage": "https://github.com/tlacloc/mongo-graphql#readme"
+}
